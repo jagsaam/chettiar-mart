@@ -1,0 +1,1 @@
+function shopNow(){alert('Welcome to Chettiar Mart!');}
